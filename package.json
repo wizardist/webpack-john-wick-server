@@ -1,6 +1,6 @@
 {
   "name": "webpack-john-wick-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Indicates after compiling that Webpack has served and will be of service.",
   "main": "index.js",
   "scripts": {
